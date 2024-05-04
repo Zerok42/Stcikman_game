@@ -1,3 +1,6 @@
 /.venv/
 .idea
 things.txt
+test.py
+test2.py
+pymunk_logo_googlecode.png
